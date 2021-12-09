@@ -13,9 +13,5 @@ alias:
     - name: a2enmod alias
     
 Portteja voisi myös avata ssh:ta varten  
-
-portit
-/etc/ssh/sshd_config:
-  file.managed:
-    - source: salt://sshd/sshd_config
-Myös kyseiseen tiedostoon pitäisi tehdä muutoksia.
+![image](https://user-images.githubusercontent.com/94476967/145321288-8b28e3a5-0de9-45b5-9db9-cef1e93b5c38.png)
+Myös tiedosto josta konffataan pitää tehdä
