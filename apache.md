@@ -13,6 +13,8 @@ Sitten päätin alkaa automatisoimaan.
 
 ![image](https://user-images.githubusercontent.com/94476967/145738763-8fde29c4-4832-4ea7-a35b-42ae6b07576e.png)
 
+Tässä siis kerrotaan mitä paketteja tarvitaan, mistä otetaan tiedot minnekkin ja vielä symlink tiedostojen välille. Skellin avulla uusille käyttäjille saadaan tiedostoja
+
 ![image](https://user-images.githubusercontent.com/94476967/145740100-b351675f-4560-40d5-825b-59a4f992d4b0.png)
 
 ![image](https://user-images.githubusercontent.com/94476967/145740019-0835f5ac-76a4-485d-8b88-8cae17bdd4a6.png)
