@@ -5,7 +5,7 @@ Teen projektin Ubuntu 20.04 server virtuaalikoneella joka on virtualboxissa ja s
 Aluksi luon '/etc/skel/' hakemistoon uuden index.html tiedoston jolla varmistan että uusi käyttäjä saa tiedoston. 
 ![image](https://user-images.githubusercontent.com/94476967/145738142-74f18150-b9a6-431a-a304-fb0192c1b83e.png)
 
-![image](https://user-images.githubusercontent.com/94476967/145738439-9d0631cb-dc11-42e7-9dd4-11378b4135e5.png)
+![image](https://user-images.githubusercontent.com/94476967/145742196-21ef7114-f19e-43e0-abf2-bd9c920085f9.png)
 
 toimi.
 
