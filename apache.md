@@ -23,4 +23,5 @@ Testaus meni läpi parin kokeilun jälkeen ilman virheilmoituksia, ja selaimella
 ![image](https://user-images.githubusercontent.com/94476967/145740295-8e232dd4-f796-4e46-831c-e899e147b4c3.png)
 
 Tein taas uuden käyttäjän ja katsoin sielt tuliko tiedosto skel-hakemistosta
+
 ![image](https://user-images.githubusercontent.com/94476967/145741051-e125acba-f35d-4eb5-b576-10e159e18a33.png)
